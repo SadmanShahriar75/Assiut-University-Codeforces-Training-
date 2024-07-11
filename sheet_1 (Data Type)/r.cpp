@@ -1,5 +1,3 @@
-
-
 #include <iostream>
 using namespace std;
 
@@ -12,11 +10,6 @@ int main() {
     int days = remainder % 30;
     cout << year << " years" << endl;
     cout << month << " months"<< endl;
-    cout << days<< " days"<< endl;
-
-
-
-  
-    
+    cout << days<< " days"<< endl;    
     return 0;
 }
